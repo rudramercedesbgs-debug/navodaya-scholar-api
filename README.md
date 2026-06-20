@@ -1,7 +1,7 @@
-# navodaya-scholar-api
+# Navodaya-scholar-api
 > 🚀 **Fun Fact:** I built this entire RESTful CRUD API from scratch when I was an 8th-grade student, teaching myself backend engineering, routing, and database security!
 "A production-designed RESTful CRUD API built from scratch using Python, Flask, and SQLite to securely manage scholar information with parameterized queries."
-# navodaya-scholar-api
+
 
 A lightweight RESTful CRUD API built entirely from scratch to manage scholar records.
 
